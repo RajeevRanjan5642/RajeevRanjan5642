@@ -2,6 +2,7 @@
 A final year CSE undergrade at IIIT Bhagalpur.
 
 # 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=RajeevRanjan5642&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RajeevRanjan5642&theme=holi-theme)](https://git.io/streak-stats)
 
@@ -21,3 +22,5 @@ A final year CSE undergrade at IIIT Bhagalpur.
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
