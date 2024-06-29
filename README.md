@@ -1,4 +1,4 @@
-## Hi👋 I'm Rajeev Ranjan.
+# Hi👋 I'm Rajeev Ranjan.
 A final year CSE undergrade at IIIT Bhagalpur.
 <br><br>
 ## 📈 GitHub Stats
