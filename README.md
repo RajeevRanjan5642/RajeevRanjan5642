@@ -37,3 +37,8 @@ A final year CSE undergrade at IIIT Bhagalpur.
 <br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RajeevRanjan5642&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 👨🏽‍💻 Coding Profiles
+[<img src="https://img.shields.io/badge/-HackerRank-green?logo=hackerrank&logoColor=white"/>](https://www.hackerrank.com/profile/pseudocode1234)
+[<img src="https://img.shields.io/badge/-CodeChef-brown?logo=codechef&logoColor=white"/>](https://www.codechef.com/users/rajeev_2003)
+[<img src="https://img.shields.io/badge/-LeetCode-yellow?logo=leetcode&logoColor=white"/>](https://leetcode.com/u/Rajeev_code/)
