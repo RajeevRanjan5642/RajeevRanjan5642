@@ -1,5 +1,5 @@
 # Hi👋 I'm Rajeev Ranjan.
-A final year CSE undergrade at IIIT Bhagalpur.
+A final year CSE undergraduate at IIIT Bhagalpur.
 <br><br>
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=RajeevRanjan5642&theme=holi&hide_border=false&include_all_commits=false&count_private=false)
