@@ -1,6 +1,10 @@
 # Hi👋 I'm Rajeev Ranjan.
 A final year CSE undergraduate at IIIT Bhagalpur.
 <br><br>
+## #30NitesOfCode:
+[Check out my progress!](https://www.codedex.io/@rajeevranj41868/30-nites-of-code)  
+![@rajeevranj41868 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rajeevranj41868)
+<br><br>
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=RajeevRanjan5642&theme=holi&hide_border=false&include_all_commits=false&count_private=false)
 
