@@ -35,9 +35,6 @@ A final year CSE undergraduate at IIIT Bhagalpur.
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 <br><br>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RajeevRanjan5642&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<br><br>
 ## 👨🏽‍💻 Coding Profiles
 [<img src="https://img.shields.io/badge/-HackerRank-green?logo=hackerrank&logoColor=white"/>](https://www.hackerrank.com/profile/pseudocode1234)
 [<img src="https://img.shields.io/badge/-CodeChef-brown?logo=codechef&logoColor=white"/>](https://www.codechef.com/users/rajeev_2003)
@@ -47,5 +44,3 @@ A final year CSE undergraduate at IIIT Bhagalpur.
 [Check out my progress!](https://www.codedex.io/@rajeevranj41868/30-nites-of-code)  
 ![@rajeevranj41868 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rajeevranj41868)
 <br><br>
-## 🤝 Connect Me
-[✉️](rajeevranjan31012003@gmail.com)
