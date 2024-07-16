@@ -41,3 +41,5 @@ A final year CSE undergraduate at IIIT Bhagalpur.
 [<img src="https://img.shields.io/badge/-LeetCode-yellow?logo=leetcode&logoColor=white"/>](https://leetcode.com/u/Rajeev_code/)
 <br><br>
 
+## #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@rajeevranj41868/30-nites-of-code)
+![@rajeevranj41868 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rajeevranj41868)
