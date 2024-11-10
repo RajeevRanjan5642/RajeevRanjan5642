@@ -4,7 +4,7 @@ A final year CSE undergraduate at IIIT Bhagalpur.
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=RajeevRanjan5642&theme=holi&hide_border=false&include_all_commits=false&count_private=false)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RajeevRanjan5642&theme=holi-theme)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RajeevRanjan5642&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajeevRanjan5642&layout=compact&theme=holi)](https://github.com/RajeevRanjan5642)
 <br><br>
